@@ -831,7 +831,8 @@ sort(list, Comparable::&lt;String&gt;compareTo);             // Method reference
             <td><a
             href="apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#PACKAGE_DEF">PACKAGE_DEF</a>,
             <a
-             href="apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#IMPORT">IMPORT</a>.</td>
+             href="apidocs/com/puppycrawl/tools/checkstyle/api/TokenTypes.html#IMPORT">IMPORT</a>
+             .</td>
           </tr>
         </table>
       </subsection>
